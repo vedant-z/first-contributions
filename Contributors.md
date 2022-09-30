@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Watts](https://github.com/Watts8bits)
+- [Vedant](https://github.com/vedant-z)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
